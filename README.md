@@ -56,7 +56,7 @@ These are the technologies **planned**. The list will be updated to what is actu
 
 ## 4. Application Architecture
 
-![Application architecture](docs/architecture.png)
+![Application architecture](architecture.png)
 
 *Figure 1. Planned architecture. Blue components are code I will write; gray components are external libraries or data.*
 
@@ -181,7 +181,7 @@ For Deliverable 1, Claude was used to help draft this README from the course tem
 
 ### Preliminary Interface Sketch
 
-![Preliminary interface sketch](docs/interface-sketch.png)
+![Preliminary interface sketch](interface-sketch.png)
 
 *Figure 2. Wireframe of the main screen: sidebar controls on the left, metrics and ranked alert table on the right, with an explanation panel and labeling buttons for the selected alert.*
 
