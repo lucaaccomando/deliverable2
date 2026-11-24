@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Local analyst database (created on first run)
+*.db
+*.sqlite
+
+# Full NSL-KDD files are downloaded separately (see README); only the 3,000-row sample is committed
+data/raw/
+
+# OS
+.DS_Store
