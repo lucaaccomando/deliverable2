@@ -1,0 +1,8 @@
+# Pinned to the versions the app and the saved model were built and tested with (Python 3.12).
+# The saved model is a scikit-learn pickle, so scikit-learn must match exactly.
+streamlit==1.67.0
+scikit-learn==1.9.1
+pandas==3.1.1
+numpy==2.5.5
+joblib==1.6.0
+plotly==7.1.0
